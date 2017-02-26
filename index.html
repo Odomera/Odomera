@@ -1,282 +1,273 @@
-<!DOCTYPE html> 
-<html > 
-<head> 
-<meta name="robots" content="noindex, nofollow">
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-<style type="text/css"> 
-body {
-	border: none;
-	font: normal 100%/normal Arial, Helvetica, sans-serif;
-	color: rgba(255,255,255,1);
-	background: linear-gradient(90deg, rgba(0,0,0,0) 79px, rgb(171,206,212) 79px, rgb(171,206,212) 81px, rgba(0,0,0,0) 81px), linear-gradient(0deg, rgb(238,238,238) 0.1em, rgba(0,0,0,0) 0.1em), rgb(255, 255, 255);
-	background-position: auto auto;
-	background-origin: padding-box; 
-	background-clip: border-box;	
-	background-size: 100% 1.2em;
-}
+<!DOCTYPE html>
+<html>
 
-.contenedor {
-	padding-left:100px;
-	padding-top:10px;
-	margin-left: -5px;
-	margin-top:55px;
-	border-top: 2px solid #abced4;
-	color: gray
-}
+<head>
+	<meta name="robots" content="noindex, nofollow">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<style type="text/css">
+		body {
+			border: none;
+			font: normal 100%/normal Arial, Helvetica, sans-serif;
+			color: rgba(255, 255, 255, 1);
+			background: 
+			linear-gradient(90deg, rgba(0, 0, 0, 0) 79px, rgb(171, 206, 212) 79px, rgb(171, 206, 212) 81px, rgba(0, 0, 0, 0) 81px), 
+			linear-gradient(0deg, rgb(238, 238, 238) 0.1em, rgba(0, 0, 0, 0) 0.1em), rgb(255, 255, 255);
+			background-position: auto auto;
+			background-origin: padding-box;
+			background-clip: border-box;
+			background-size: 100% 1.2em
+		}
+		.contenedor {
+			padding-left: 100px;
+			padding-top: 10px;
+			margin-left: -5px;
+			margin-top: 55px;
+			border-top: 2px solid #abced4;
+			color: gray
+		}
+		article {
+			position: relative;
+			width: 300px;
+			padding-bottom: 15px
+		}
+		article::before,
+		article::after {
+			content: "";
+			width: 300px;
+			height: 100%;
+			position: absolute;
+			left: -2px;
+			top: -5px;
+			z-index: -1;
+			transform: rotate(-2deg)
+		}
+		article::after {
+			left: 0;
+			transform: rotate(-1deg)
+		}
+		article,
+		article::before,
+		article::after {
+			background: #fff;
+			box-shadow: 0 0 3px rgba(0, 0, 0, 0.2)
+		}
+		h2 {
+			margin-left: 20px;
+			padding-top: 20px
+		}
+		p {
+			padding-left: 20px
+		}
+		#social {
+			list-style: none;
+			text-decoration: none;
+			font-size: 0.9em;
+			font-family: trebuchet ms, sans-serif
+		}
+		#social a {
+			text-decoration: none;
+			font-family: trebuchet ms, sans-serif
+		}
+		#social li {
+			position: relative;
+			height: 38px;
+			cursor: pointer;
+			padding: 0 !important
+		}
+		#social .facebook,
+		.instagram,
+		.whatsapp,
+		.rss,
+		.twitter {
+			position: relative;
+			z-index: 5;
+			display: block;
+			float: none;
+			margin: 10px 0 0;
+			width: 210px;
+			height: 38px;
+			border-radius: 2px;
+			background: url(sprite.png) no-repeat;
+			background-color: rgba(217, 30, 118, .42);
+			box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+			color: #141414;
+			text-align: left;
+			text-indent: 50px;
+			text-shadow: rgba(0, 0, 0, .28) 0 1px 0;
+			white-space: nowrap;
+			line-height: 32px;
+			transition: width .25s ease-in-out, background-color .25s ease-in-out
+		}
+		#social .instagram {
+			position: relative;
+			z-index: 5;
+			display: block;
+			float: none;
+			margin: 10px 0 0;
+			width: 210px;
+			height: 38px;
+			border-radius: 2px;
+			background: url(sprite.png) no-repeat;
+			background-color: rgba(217, 30, 118, .42);
+			box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+			color: #141414;
+			text-align: left;
+			text-indent: 50px;
+			text-shadow: rgba(0, 0, 0, .28) 0 1px 0;
+			white-space: nowrap;
+			line-height: 32px;
+			transition: width .25s ease-in-out, background-color .25s ease-in-out
+		}
+		#social .whatsapp {
+			position: relative;
+			z-index: 5;
+			display: block;
+			float: none;
+			margin: 10px 0 0;
+			width: 210px;
+			height: 38px;
+			border-radius: 2px;
+			background: url(sprite.png) no-repeat;
+			background-color: rgba(217, 30, 118, .42);
+			box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+			color: #141414;
+			text-align: left;
+			text-indent: 50px;
+			text-shadow: rgba(0, 0, 0, .28) 0 1px 0;
+			white-space: nowrap;
+			line-height: 32px;
+			transition: width .25s ease-in-out, background-color .25s ease-in-out
+		}
+		#social .twitter {
+			position: relative;
+			z-index: 5;
+			display: block;
+			float: none;
+			margin: 10px 0 0;
+			width: 210px;
+			height: 38px;
+			border-radius: 2px;
+			background: url(sprite.png) no-repeat;
+			background-color: rgba(217, 30, 118, .42);
+			box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+			color: #141414;
+			text-align: left;
+			text-indent: 50px;
+			text-shadow: rgba(0, 0, 0, .28) 0 1px 0;
+			white-space: nowrap;
+			line-height: 32px;
+			transition: width .25s ease-in-out, background-color .25s ease-in-out
+		}
+		#social .telegram {
+			position: relative;
+			z-index: 5;
+			display: block;
+			float: none;
+			margin: 10px 0 0;
+			width: 210px;
+			height: 38px;
+			border-radius: 2px;
+			background: url(sprite.png) no-repeat;
+			background-color: rgba(217, 30, 118, .42);
+			-webkit-box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+			-moz-box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+			box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+			color: #141414;
+			text-align: left;
+			text-indent: 50px;
+			text-shadow: rgba(0, 0, 0, .28) 0 1px 0;
+			white-space: nowrap;
+			line-height: 32px;
+			transition: width .25s ease-in-out, background-color .25s ease-in-out
+		}
+		#social li:after {
+			position: absolute;
+			top: 0;
+			left: 50px;
+			z-index: 2;
+			display: block;
+			height: 38px;
+			color: #141414;
+			content: attr(data-alt);
+			line-height: 32px
+		}
+		#social .icon {
+			overflow: hidden;
+			color: #fafafa
+		}
+		#social .facebook {
+			width: 32px;
+			height: 32px;
+			background-color: rgba(59, 89, 152, 0.42);
+			background-position: 0 0
+		}
+		#social .twitter {
+			width: 32px;
+			height: 32px;
+			background-color: rgba(0, 172, 237, 0.42);
+			background-position: 0 -33px
+		}
+		#social .instagram {
+			width: 32px;
+			height: 32px;
+			background-color: rgba(193, 53, 132, 0.42);
+			background-position: -3px -66px
+		}
+		#social .whatsapp {
+			width: 32px;
+			height: 32px;
+			background-color: rgba(77, 194, 7, 0.42);
+			background-position: 0 -95px
+		}
+		#social .telegram {
+			width: 32px;
+			height: 32px;
+			background-color: rgba(0, 136, 204, 0.42);
+			background-position: -3px -126px
+		}
+		#social li:hover .icon,
+		.touch #social li .icon {
+			width: 210px
+		}
+		.touch #social li .facebook,
+		#social li:hover .facebook {
+			background-color: rgba(59, 89, 152, 1)
+		}
+		.touch #social li .twitter,
+		#social li:hover .twitter {
+			background-color: rgba(0, 172, 237, 1)
+		}
+		.touch #social li .instagram,
+		#social li:hover .instagram {
+			background-color: rgba(193, 53, 132, 1)
+		}
+		.touch #social li .whatsapp,
+		#social li:hover .whatsapp {
+			background-color: rgba(77, 194, 7, 1)
+		}
+		.touch #social li .telegram,
+		#social li:hover .telegram {
+			background-color: rgba(0, 136, 204, 1)
+		}
+	</style>
+</head>
 
-article {
-	position: relative;
-	width: 300px;
-		padding-bottom:15px;
-}
+<body>
+	<div class="contenedor">
+		<article>
+			<h2>Víctor Emanuel Ortiz</h2>
+			<p>Encontrame en:</p>
+			<p>
+				<ul id="social">
+					<li data-alt=" Twitter"><a class="icon twitter" href="https://www.twitter.com/Odomera">@Odomera</a></li>
+					<li data-alt=" Facebook"><a class="icon facebook" href="https://www.facebook.com/VictorEmanuelOrtiz">VictorEmanuelOrtiz</a></li>
+					<li data-alt=" Instagram"><a class="icon instagram" href="https://instagram.com/VictorEmanuelOrtiz">VictorEmanuelOrtiz</a></li>
+					<li data-alt=" Telegram"><a class="icon telegram" href="https://t.me/VictorEOrtiz">Enviar un mensaje</a></li>
+					<li data-alt=" WhatsApp"><a class="icon whatsapp" href="https://api.whatsapp.com/send?phone=595982365554&text=Hola">Enviar un mensaje</a></li>
+				</ul>
+			</p>
+		</article>
+	</div>
+</body>
 
-article::before,
-article::after {
-	content: "";
-	width: 300px;
-	height: 100%;
-	position: absolute;
-	left: -2px;
-	top: -5px;
-	z-index: -1;
-	transform: rotate(-2deg);
-}
-
-article::after {
-left: 0;
-transform: rotate(-1deg);
-}
-
-article,
-article::before,
-article::after {
-background: #fff;
-box-shadow: 0 0 3px rgba(0,0,0,0.2);
-}
-
-h2 {
-margin-left: 20px ;
-padding-top: 20px ;
-}
-
-p {
-padding-left: 20px ;
-}
-
-
-
-
-#social {
-list-style: none;
-text-decoration: none;
-font-size: 0.9em;
-font-family: trebuchet ms,sans-serif;
-}
-#social a {
-text-decoration: none;
-font-family: trebuchet ms,sans-serif;
-}
-#social li {
-position: relative;
-height: 38px;
-cursor: pointer;
-padding: 0 !important;
-}
-#social .facebook, .instagram, .whatsapp, .rss, .twitter {
-position: relative;
-z-index: 5;
-display: block;
-float: none;
-margin: 10px 0 0;
-width: 210px;
-height: 38px;
-border-radius: 2px;
-background: url(sprite.png) no-repeat;
-background-color: rgba(217,30,118,.42);
-box-shadow: rgba(0,0,0,.28) 0 2px 3px;
-color: #141414;
-text-align: left;
-text-indent: 50px;
-text-shadow: rgba(0,0,0,.28) 0 1px 0;
-white-space: nowrap;
-line-height: 32px;
-transition: width .25s ease-in-out,background-color .25s ease-in-out;
-}
-#social .instagram {
-position: relative;
-z-index: 5;
-display: block;
-float: none;
-margin: 10px 0 0;
-width: 210px;
-height: 38px;
-border-radius: 2px;
-background: url(sprite.png) no-repeat;
-background-color: rgba(217,30,118,.42);
-box-shadow: rgba(0,0,0,.28) 0 2px 3px;
-color: #141414;
-text-align: left;
-text-indent: 50px;
-text-shadow: rgba(0,0,0,.28) 0 1px 0;
-white-space: nowrap;
-line-height: 32px;
-transition: width .25s ease-in-out,background-color .25s ease-in-out;
-}
-#social .whatsapp {
-position: relative;
-z-index: 5;
-display: block;
-float: none;
-margin: 10px 0 0;
-width: 210px;
-height: 38px;
-border-radius: 2px;
-background: url(sprite.png) no-repeat;
-background-color: rgba(217,30,118,.42);
-box-shadow: rgba(0,0,0,.28) 0 2px 3px;
-color: #141414;
-text-align: left;
-text-indent: 50px;
-text-shadow: rgba(0,0,0,.28) 0 1px 0;
-white-space: nowrap;
-line-height: 32px;
-transition: width .25s ease-in-out,background-color .25s ease-in-out;
-}
-#social .twitter {
-position: relative;
-z-index: 5;
-display: block;
-float: none;
-margin: 10px 0 0;
-width: 210px;
-height: 38px;
-border-radius: 2px;
-background: url(sprite.png) no-repeat;
-background-color: rgba(217,30,118,.42);
-box-shadow: rgba(0,0,0,.28) 0 2px 3px;
-color: #141414;
-text-align: left;
-text-indent: 50px;
-text-shadow: rgba(0,0,0,.28) 0 1px 0;
-white-space: nowrap;
-line-height: 32px;
-transition: width .25s ease-in-out,background-color .25s ease-in-out;
-}
-#social .telegram {
-position: relative;
-z-index: 5;
-display: block;
-float: none;
-margin: 10px 0 0;
-width: 210px;
-height: 38px;
-border-radius: 2px;
-background: url(sprite.png) no-repeat;
-background-color: rgba(217,30,118,.42);
--webkit-box-shadow: rgba(0,0,0,.28) 0 2px 3px;
--moz-box-shadow: rgba(0,0,0,.28) 0 2px 3px;
-box-shadow: rgba(0,0,0,.28) 0 2px 3px;
-color: #141414;
-text-align: left;
-text-indent: 50px;
-text-shadow: rgba(0,0,0,.28) 0 1px 0;
-white-space: nowrap;
-line-height: 32px;
-transition: width .25s ease-in-out,background-color .25s ease-in-out;
-}
-#social li:after {
-position: absolute;
-top: 0;
-left: 50px;
-z-index: 2;
-display: block;
-height: 38px;
-color: #141414;
-content: attr(data-alt);
-line-height: 32px;
-}
-#social .icon {
-overflow: hidden;
-color: #fafafa;
-}
-#social .facebook {
-width: 32px;
-height: 32px;
-background-color: rgba(59, 89, 152,0.42);
-background-position: 0 0;
-}
-#social .twitter {
-width: 32px;
-height: 32px;
-background-color: rgba(0, 172, 237,0.42);
-background-position: 0 -33px;
-}
-#social .instagram {
-width: 32px;
-height: 32px;
-background-color: rgba(193, 53, 132,0.42);
-background-position: -3px -66px;
-}
-#social .whatsapp {
-width: 32px;
-height: 32px;
-background-color: rgba(77, 194, 7,0.42);
-background-position: 0 -95px;
-}
-#social .telegram {
-width: 32px;
-height: 32px;
-background-color: rgba(0, 136, 204,0.42);
-background-position: -3px -126px;
-}
-#social li:hover .icon,
-.touch #social li .icon {
-width: 210px;
-}
-.touch #social li .facebook, #social li:hover .facebook {
-background-color: rgba(59, 89, 152,1);
-}
-.touch #social li .twitter, #social li:hover .twitter {
-background-color: rgba(0, 172, 237,1);
-}
-.touch #social li .instagram, #social li:hover .instagram {
-background-color: rgba(193, 53, 132,1); 
-}
-.touch #social li .whatsapp, #social li:hover .whatsapp {
-background-color: rgba(77, 194, 7,1);
-}
-.touch #social li .telegram, #social li:hover .telegram {
-background-color: rgba(0, 136, 204,1);
-}
- </style> 
- </head> 
- <body> 
- <div class="contenedor">
-
-
-<article>
-    <h2>Víctor Emanuel Ortiz</h2>
-
-<p>Encontrame en:</p>
-<p>
-<ul id="social">
-<li data-alt=" Twitter"><a class="icon twitter" href="https://www.twitter.com/Odomera">@Odomera</a></li>
-<li data-alt=" Facebook" ><a class="icon facebook" href="https://www.facebook.com/VictorEmanuelOrtiz">VictorEmanuelOrtiz</a></li>
-<li data-alt=" Instagram"><a class="icon instagram" href="https://instagram.com/VictorEmanuelOrtiz">VictorEmanuelOrtiz</a></li>
-<li data-alt=" Telegram"><a class="icon telegram" href="https://t.me/VictorEOrtiz">Enviar un mensaje</a></li>
-<li data-alt=" WhatsApp"><a class="icon whatsapp" href="https://api.whatsapp.com/send?phone=595982365554&text=Hola">Enviar un mensaje</a></li>
-
-</ul>
-</p>
-
-
-
-
-</article>
-
-
- </div>
-
- 
- </body> 
- </html>
+</html>
