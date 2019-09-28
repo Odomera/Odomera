@@ -1,0 +1,12 @@
+body { background-image:url('images/purple/bg.gif'); }
+.wrap { background-image:url('images/purple/bg_top.gif'); }
+.widget { border-color:#BBADC2 !important; }
+.widget li a:hover { background-color:#6A577B; }
+
+.widget h2,
+.comment-author,
+.comment-author a { color:#7D599B; }
+
+.commentlist,
+.commentlist li ,
+.comment-avatar img { border-color:#A387BA; }
