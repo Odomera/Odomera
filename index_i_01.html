@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Víctor Emanuel Ortiz</title>
+	<meta name='subtitle' content='Encontrame en las redes'>
+	<meta name='description' content='Encontrame también en: Twitter, Facebook, Instagram, Telegram, WhatsApp'>
+	<meta name="robots" content="noindex, nofollow">
+	<meta charset='UTF-8'>
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+	<style type="text/css">
+		body {
+			font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+		}
+		.contenedor {
+			padding-left: 5px;
+			padding-top: 0px;
+			margin-left: 5px;
+			margin-top: 0px;
+			color: gray
+		}
+		
+		#papel {
+			position: relative;
+			width: 280px;
+			padding-bottom: 15px
+		}
+		#papel::before,
+		#papel::after {
+			content: "";
+			width: 280px;
+			height: 100%;
+			position: absolute;
+			left: -2px;
+			top: -5px;
+			z-index: -1;
+			transform: rotate(-2deg)
+		}
+		#papel::after {
+			left: 0;
+			transform: rotate(-1deg)
+		}
+		#papel,
+		#papel::before,
+		#papel::after {
+			background: #fff;
+			box-shadow: 0 0 3px rgba(0, 0, 0, 0.2)
+		}
+	
+		
+		#foto {
+			position: absolute;
+			width: 64px;
+			height: 64px;
+			padding: 2px;
+			margin-left:200px;
+			margin-top:-10px;
+			background: #fff;
+			box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+		}
+	
+		
+		h2 {
+			margin-left: 20px;
+			padding-top: 20px
+		}
+		p {
+			padding-left: 20px
+		}
+		#social {
+			list-style: none;
+			text-decoration: none;
+			font-size: 0.9em;
+		}
+		#social a {
+			text-decoration: none;
+		}
+		#social li {
+			position: relative;
+			height: 38px;
+			cursor: pointer;
+			padding: 0 !important
+		}
+		#social .facebook,
+		.instagram,
+		.whatsapp,
+		.rss,
+		.twitter {
+			position: relative;
+			z-index: 5;
+			display: block;
+			float: none;
+			margin: 10px 0 0;
+			width: 200px;
+			height: 38px;
+			background: url(sprite.png) no-repeat;
+			background-color: rgba(217, 30, 118, .42);
+			box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+			color: #141414;
+			text-align: left;
+			text-indent: 50px;
+			text-shadow: rgba(0, 0, 0, .28) 0 1px 0;
+			white-space: nowrap;
+			line-height: 32px;
+			transition: width .25s ease-in-out, background-color .25s ease-in-out
+		}
+		#social .instagram {
+			position: relative;
+			z-index: 5;
+			display: block;
+			float: none;
+			margin: 10px 0 0;
+			width: 200px;
+			height: 38px;
+			background: url(sprite.png) no-repeat;
+			background-color: rgba(217, 30, 118, .9);
+			box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+			color: #141414;
+			text-align: left;
+			text-indent: 50px;
+			text-shadow: rgba(0, 0, 0, .28) 0 1px 0;
+			white-space: nowrap;
+			line-height: 32px;
+			transition: width .25s ease-in-out, background-color .25s ease-in-out
+		}
+		#social .whatsapp {
+			position: relative;
+			z-index: 5;
+			display: block;
+			float: none;
+			margin: 10px 0 0;
+			width: 200px;
+			height: 38px;
+			background: url(sprite.png) no-repeat;
+			background-color: rgba(217, 30, 118, .42);
+			box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+			color: #141414;
+			text-align: left;
+			text-indent: 50px;
+			text-shadow: rgba(0, 0, 0, .28) 0 1px 0;
+			white-space: nowrap;
+			line-height: 32px;
+			transition: width .25s ease-in-out, background-color .25s ease-in-out
+		}
+		#social .twitter {
+			position: relative;
+			z-index: 5;
+			display: block;
+			float: none;
+			margin: 10px 0 0;
+			width: 200px;
+			height: 38px;
+			background: url(sprite.png) no-repeat;
+			background-color: rgba(217, 30, 118, .42);
+			box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+			color: #141414;
+			text-align: left;
+			text-indent: 50px;
+			text-shadow: rgba(0, 0, 0, .28) 0 1px 0;
+			white-space: nowrap;
+			line-height: 32px;
+			transition: width .25s ease-in-out, background-color .25s ease-in-out
+		}
+		#social .telegram {
+			position: relative;
+			z-index: 5;
+			display: block;
+			float: none;
+			margin: 10px 0 0;
+			width: 200px;
+			height: 38px;
+			background: url(sprite.png) no-repeat;
+			background-color: rgba(217, 30, 118, .42);
+			-webkit-box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+			-moz-box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+			box-shadow: rgba(0, 0, 0, .28) 0 2px 3px;
+			color: #141414;
+			text-align: left;
+			text-indent: 50px;
+			text-shadow: rgba(0, 0, 0, .28) 0 1px 0;
+			white-space: nowrap;
+			line-height: 32px;
+			transition: width .25s ease-in-out, background-color .25s ease-in-out
+		}
+		#social li:after {
+			position: absolute;
+			top: 0;
+			left: 50px;
+			z-index: 2;
+			display: block;
+			height: 38px;
+			color: #141414;
+			content: attr(data-alt);
+			line-height: 32px
+		}
+		#social .icon {
+			overflow: hidden;
+			color: #fafafa
+		}
+		#social .facebook {
+			width: 32px;
+			height: 32px;
+			background-color: rgba(59, 89, 152, 0.7);
+			background-position: 0 0;
+			border-radius: 4px;
+		}
+		#social .twitter {
+			width: 32px;
+			height: 32px;
+			background-color: rgba(0, 172, 237, 0.7);
+			background-position: 0 -33px;
+			border-radius: 4px;
+		}
+		#social .instagram {
+			width: 32px;
+			height: 32px;
+			background-color: rgba(193, 53, 132, 0.7);
+			background-position: -3px -66px;
+			border-radius: 4px;
+		}
+		#social .whatsapp {
+			width: 32px;
+			height: 32px;
+			background-color: rgba(77, 194, 7, 0.7);
+			background-position: 0 -95px;
+			border-radius: 4px;
+		}
+		#social .telegram {
+			width: 32px;
+			height: 32px;
+			background-color: rgba(0, 136, 204, 0.47);
+			background-position: -3px -126px;
+			border-radius: 4px;
+		}
+		#social li:hover .icon,
+		.touch #social li .icon {
+			width: 210px
+		}
+		.touch #social li .facebook,
+		#social li:hover .facebook {
+			background-color: rgba(59, 89, 152, 1)
+		}
+		.touch #social li .twitter,
+		#social li:hover .twitter {
+			background-color: rgba(0, 172, 237, 1);
+			width: 150px;
+		}
+		.touch #social li .instagram,
+		#social li:hover .instagram {
+			background-color: rgba(193, 53, 132, 1)
+		}
+		.touch #social li .whatsapp,
+		#social li:hover .whatsapp {
+			background-color: rgba(77, 194, 7, 1)
+		}
+		.touch #social li .telegram,
+		#social li:hover .telegram {
+			background-color: rgba(0, 136, 204, 1)
+		}
+	</style>
+</head>
+
+<body>
+	<div class="contenedor">
+		<article id="papel">
+			<h2>Víctor Emanuel Ortiz</h2>
+			<span id="foto"><img  alt="Foto de perfil de Víctor Emanuel Ortiz" class="photo" height="64" src="https://lh5.googleusercontent.com/-PVwvvefvUp8/AAAAAAAAAAI/AAAAAAAAAG8/VsRCbqvIdl0/photo.jpg?sz=64" width="64"> </span>
+			<p>Encontrame en:</p>
+			<p>
+				<ul id="social">
+					<li data-alt=" Twitter"><a class="icon twitter" href="https://www.twitter.com/Odomera">@Odomera</a></li>
+					<li data-alt=" Facebook"><a class="icon facebook" href="https://www.facebook.com/VictorEmanuelOrtiz">VictorEmanuelOrtiz</a></li>
+					<li data-alt=" Instagram"><a class="icon instagram" href="https://instagram.com/VictorEmanuelOrtiz">VictorEmanuelOrtiz</a></li>
+					<li data-alt=" Telegram"><a class="icon telegram" href="https://t.me/VictorEOrtiz">Enviar un mensaje</a></li>
+					<li data-alt=" WhatsApp"><a class="icon whatsapp" href="https://api.whatsapp.com/send?phone=595982365554&text=Hola">Enviar un mensaje</a></li>
+				</ul>
+			</p>
+		</article>
+	</div>
+</body>
+
+</html>
