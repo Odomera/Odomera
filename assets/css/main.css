@@ -1,4 +1,3 @@
-
 @font-face {font-family: "Jeroky"; src: url("fonts/Jeroky-Regular.woff") format('woff');}
 @font-face {font-family: "Jeroky Italic"; src: url("fonts/Jeroky-Italic.woff") format('woff');}
 @font-face {font-family: "Fluoxetine"; src: url("fonts/Fluoxetine-V2.woff") format('woff');}
@@ -7,7 +6,14 @@ article,footer,header,section{display:block}
 body{line-height:1}
 ul{list-style:none}
 body{-webkit-text-size-adjust:none}
-@media screen and (max-width:480px){body,html{min-width:320px}}
+@media screen and (max-width:480px){
+body,html{min-width:320px}
+#social .facebook{background-position: -0.1em 0!important}
+#social .twitter{background-position: -0.1em -2.8em!important}
+#social .instagram{ background-position: -0.3em -5.5em!important}
+#social .whatsapp{background-position: -0.1em -8em!important} 
+#social .telegram{ background-position: -0.3em -126px!important}
+}
 html{box-sizing:border-box}
 *,:after,:before{box-sizing:inherit}
 body.is-preload *,body.is-preload :after,body.is-preload :before{ animation:none!important; transition:none!important}
