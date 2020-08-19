@@ -1,4 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Lexend+Deca:300);
+
+@font-face {font-family: "Jeroky"; src: url("fonts/Jeroky-Regular.woff") format('woff');}
+@font-face {font-family: "Jeroky Italic"; src: url("fonts/Jeroky-Italic.woff") format('woff');}
+@font-face {font-family: "Fluoxetine"; src: url("fonts/Fluoxetine-V2.woff") format('woff');}
 a,article,b,body,div,footer,h1,h2,h3,h4,h5,h6,header,html,img,li,p,s,section,span,ul{margin:0; padding:0; border:0; font-size:100%; font:inherit; vertical-align:baseline}
 article,footer,header,section{display:block}
 body{line-height:1}
@@ -39,7 +42,7 @@ body.is-preload:after{opacity:1}
 
 body{ 
 color:#414f57; 
-font-family:"Lexend Deca",Helvetica,sans-serif; 
+font-family:"Jeroky",Helvetica,sans-serif; 
 font-size:14pt; 
 font-weight:300; 
 line-height:2; 
@@ -56,7 +59,8 @@ b{color:#313f47}
 p{margin:0 0 1.5em 0}
 h1,h2,h3,h4,h5,h6{color:#313f47; line-height:1.5; margin:0 0 .75em 0}
 h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{color:inherit; text-decoration:none}
-h1{font-size:1.7em; letter-spacing:.01em; margin:0 0 .525em 0} 
+h1{font-size:1.6em; letter-spacing:.01em; margin:0 0 .525em 0; font-family:"Fluoxetine", sans-serif; 
+} 
 h2{font-size:1.25em} 
 h3{font-size:1em} 
 h4{font-size:1em} 
