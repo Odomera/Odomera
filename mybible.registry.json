@@ -1,6 +1,6 @@
 {
-  "url": "https://i.odomera.com/mybible.json",
-  "file_name": "mybible.json",
+  "url": "https://i.odomera.com/mybible.registry.json",
+  "file_name": "mybible.registry.json",
   "description": "Módulos de Biblias católicas con deuterocanónicos",
   "modules": [
       {
