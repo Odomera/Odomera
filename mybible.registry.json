@@ -5,7 +5,7 @@
   "modules": [
       {
       "download_url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=j92vsmv96a63dzpntbsyvxuah15capia&file_id=f_1114410274057",
-      "file_name": "Ausejo.zip",
+      "file_name": "BSA.zip",
       "language_code": "es",
       "description": "Biblia Serafín Ausejo, 1975 (con deuterocanónicos)",
       "update_date": "2023-01-16",
@@ -13,7 +13,7 @@
     },
   {
       "download_url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=ussjw580xqxrm2zj339mxki0w8z82l00&file_id=f_1114408274908",
-            "file_name": "BDA'2010.zip",
+            "file_name": "BDA2010.zip",
       "language_code": "es",
       "description": "Biblia de América, 2010 (con deuterocanónicos)",
       "update_date": "2023-01-16",
@@ -23,22 +23,19 @@
       "download_url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=4v72fwom2j3rduhcrx48bqqasximg2gi&file_id=f_1114415398537",
       "file_name": "BJ4LA.zip",
       "language_code": "es",
-      "description": "Biblia de Jerusalén 4ta Edición Latinoamericana, 2007. Deuterocanónicos de la 4ta edición Española",
+      "description": "Biblia de Jerusalén 4ta Edición Latinoamericana, 2007. \n Deuterocanónicos de la 4ta edición Española",
       "update_date": "2023-01-16",
       "update_info": "(2023-01-16) Publicado \n(2023-01-11) Creado a partir de un módulo de e-Sword"
     },
- 
-  
-        {
+         {
       "download_url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=091waemk096ydu0f5zujb0l226fb53xu&file_id=f_1114472748723",
       "file_name": "BJ1975.zip",
-      "language_code": "en",
+      "language_code": "es",
       "description": "Biblia de Jerusalén, 1975 (2da Edición)",
       "update_date": "2023-01-16",
       "update_info": "(2023-01-16) Publicado"
     },
-    
-    
+     
   {
       "download_url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=v0kev3i5oxpiv5v31swpftwbp36duuap&file_id=f_1114405449829",
       "file_name": "BL1995.zip",
@@ -52,8 +49,8 @@
       "file_name": "CEE11.zip",
       "language_code": "es",
       "description": "Sagrada Biblia de la Conferencia Episcopal Española. Edición Popular, 2011",
-      "update_date": "2018-12-18",
-      "update_info": "(2018-12-18) Publicado"
+      "update_date": "2023-01-16",
+      "update_info": "(2023-01-16) Publicado"
     },
  
   {
@@ -61,16 +58,16 @@
       "file_name": "EUNSA.zip",
       "language_code": "es",
       "description": "Sagrada Biblia — Universidad de Navarra, 2016",
-      "update_date": "2018-12-28",
-      "update_info": "(2018-12-28) Re-created from the newest edition\n(2017-09-25) Published"
+      "update_date": "2023-01-16",
+      "update_info": "(2023-01-16) Updated \n(2018-12-28) Re-created from the newest edition\n(2017-09-25) Published"
     },
    {
       "download_url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=sqadkxo3talc9pzka762ihgpdgfwljuy&file_id=f_1114437610167",
       "file_name": "JLXX.zip",
       "language_code": "es",
       "description": "Sagrada Biblia — Versión de la LXX al español por Guillermo Jünemann (con deuterocanónicos)",
-      "update_date": "2018-12-28",
-      "update_info": "(2018-12-28) Re-created from the newest edition\n(2017-09-25) Published"
+      "update_date": "2023-01-16",
+      "update_info": "(2023-01-16) Publicado"
     },
  {
       "download_url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5z79n829jtaqq71hlpgd3smnp0wn8gva&file_id=f_1114409397802",
