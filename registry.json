@@ -1,6 +1,6 @@
 {
-  "url": "https://i.odomera.com/mybible.registry.json",
-  "file_name": "mybible.registry.json",
+  "url": "https://i.odomera.com/registry.json",
+  "file_name": "odomera.registry.json",
   "description": "Módulos de Biblias católicas con deuterocanónicos",
   "modules": [
       {
@@ -23,7 +23,7 @@
       "download_url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=4v72fwom2j3rduhcrx48bqqasximg2gi&file_id=f_1114415398537",
       "file_name": "BJ4LA.zip",
       "language_code": "es",
-      "description": "Biblia de Jerusalén 4ta Edición Latinoamericana, 2007. \n Deuterocanónicos de la 4ta edición Española",
+      "description": "Biblia de Jerusalén 4ta Edición Latinoamericana, 2007 (con deuterocanónicos)",
       "update_date": "2023-01-16",
       "update_info": "(2023-01-16) Publicado \n(2023-01-11) Creado a partir de un módulo de e-Sword"
     },
@@ -31,7 +31,7 @@
       "download_url": "https://app.box.com/index.php?rm=box_download_shared_file&shared_name=091waemk096ydu0f5zujb0l226fb53xu&file_id=f_1114472748723",
       "file_name": "BJ1975.zip",
       "language_code": "es",
-      "description": "Biblia de Jerusalén, 1975 (2da Edición)",
+      "description": "Biblia de Jerusalén, 1975 (con deuterocanónicos)",
       "update_date": "2023-01-16",
       "update_info": "(2023-01-16) Publicado"
     },
