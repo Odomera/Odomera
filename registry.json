@@ -143,7 +143,126 @@
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=fx5l30m2n41l612knojatgh4o379cc5j&file_id=f_1115721096443",
 			"file_name":"Todas.zip",
 			"language_code":"es",
-			"description":"Paquete con todas las Biblias de este repostorio. Incluye: \n  →Biblia Serafín Ausejo (1975), \n  →Biblia de América (2010), \n  →Biblia de Jerusalén (1975),  \n  →Biblia de Jerusalén Latinoamericana (2007), \n  →Biblia Latinoamérica (1995), \n  →Biblia Platense de Straubinger (1952), \n  →Biblia del Peregrino (1993), \n  →El Libro del Pueblo de Dios (1981),  →Biblia de Navarra (2014), \n  →Biblia de la Conferencia Episcopal Española (2011), \n  →Biblia Martín Nieto, \n  →Biblia Nácar-Colunga, \n  →Biblia Torres-Amat, \n  →Biblia de Jünemann",
+			"description":"Paquete con todas las Biblias católicas del repostorio. Incluye: \n  →Biblia Serafín Ausejo (1975), \n  →Biblia de América (2010), \n  →Biblia de Jerusalén (1975),  \n  →Biblia de Jerusalén Latinoamericana (2007), \n  →Biblia Latinoamérica (1995), \n  →Biblia Platense de Straubinger (1952), \n  →Biblia del Peregrino (1993), \n  →El Libro del Pueblo de Dios (1981),  →Biblia de Navarra (2014), \n  →Biblia de la Conferencia Episcopal Española (2011), \n  →Biblia Martín Nieto, \n  →Biblia Nácar-Colunga, \n  →Biblia Torres-Amat, \n  →Biblia de Jünemann",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"Cardo.bundle.zip",
+			"description":"Cardo font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"Caudex.bundle.zip",
+			"description":"Caudex font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"CrimsonText.bundle.zip",
+			"description":"Crimson Text font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"Cuprum.bundle.zip",
+			"description":"Cuprum font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"Exo.bundle.zip",
+			"description":"Exo font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"Exo2.bundle.zip",
+			"description":"Exo2 font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"FiraCode.bundle.zip",
+			"description":"Fira Code font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"GalatiaSIL.bundle.zip",
+			"description":"GalatiaSIL font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"GentiumPlus.bundle.zip",
+			"description":"Gentium Plus & Gentium Book Plus font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"Junicode.bundle.zip",
+			"description":"Junicode font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"LinuxBiolinum.bundle.zip",
+			"description":"Linux Biolinum font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"LinuxLibertine.bundle.zip",
+			"description":"Linux Libertine font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"Philosopher.bundle.zip",
+			"description":"Philosopher font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"Share.bundle.zip",
+			"description":"Share font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"Shofar.bundle.zip",
+			"description":"Shofar font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"TaameyAshkenaz.bundle.zip",
+			"description":"Taamey Ashkenaz font",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
+			"file_name":"Tinos.bundle.zip",
+			"description":"Tinos font",
 			"update_date":"2023-01-16",
 			"update_info":"(2023-01-16) Published"
 		}
