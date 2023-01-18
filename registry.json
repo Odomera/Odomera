@@ -186,7 +186,7 @@
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=NOMBRE&file_id=f_IDENTIFICADOR",
 			"file_name":"Exo.bundle.zip",
-			"description":"Exo font",
+			"description":"Exo fonts\n \n Fonts: \n Exo-Black \n Exo-BlackItalic \n Exo-Bold \n Exo-BoldItalic \n Exo-ExtraBold \n Exo-ExtraBoldItalic \n Exo-ExtraLight \n Exo-ExtraLightItalic \n Exo-Italic \n Exo-Light \n Exo-LightItalic \n Exo-Medium \n Exo-MediumItalic \n Exo-Regular \n Exo-SemiBold \n Exo-SemiBoldItalic",
 			"update_date":"2023-01-16",
 			"update_info":"(2023-01-16) Published"
 		},
@@ -235,7 +235,7 @@
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=adxskbdsh10z6ijr8lspqnmoj28akp7a&file_id=f_1115893414151",
 			"file_name":"LinuxLibertine.bundle.zip",
-			"description":"Linux Libertine fonts \n \n Fonts: \n user\fonts\LinuxLibertine_Italic \n LinuxLibertine-Bold \n LinuxLibertine-BoldIItalic \n LinuxLibertine-Regular",
+			"description":"Linux Libertine fonts \n \n Fonts: LinuxLibertine_Italic \n LinuxLibertine-Bold \n LinuxLibertine-BoldIItalic \n LinuxLibertine-Regular",
 			"update_date":"2023-01-16",
 			"update_info":"(2023-01-16) Published"
 		},
