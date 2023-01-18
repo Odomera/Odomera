@@ -37,9 +37,17 @@
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=v0kev3i5oxpiv5v31swpftwbp36duuap&file_id=f_1114405449829",
-			"file_name":"BL'1995.zip",
+			"file_name":"BLA'95.zip",
 			"language_code":"es",
 			"description":"Biblia Latinoamérica, 1995 (Biblia Latinoamericana, con deuterocanónicos)",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Publicado \n(2023-01-11) Creado a partir de un módulo de e-Sword"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=tssq2iehz7etoivajcadmebw2cdzuoyy&file_id=f_1116995604857",
+			"file_name":"BLA'05.zip",
+			"language_code":"es",
+			"description":"Biblia Latinoamérica, 2005 (Biblia Latinoamericana, con deuterocanónicos)",
 			"update_date":"2023-01-16",
 			"update_info":"(2023-01-16) Publicado \n(2023-01-11) Creado a partir de un módulo de e-Sword"
 		},
