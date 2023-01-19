@@ -32,8 +32,8 @@
 			"file_name":"BLA'05.zip",
 			"language_code":"es",
 			"description":"Biblia Latinoamérica, 2005 (Biblia Latinoamericana, con deuterocanónicos)",
-			"update_date":"2023-01-16",
-			"update_info":"(2023-01-16) Publicado \n(2023-01-11) Creado a partir de un módulo de e-Sword"
+			"update_date":"2023-01-19",
+			"update_info":"(2023-01-19) Correcciones \n (2023-01-16) Publicado \n (2023-01-11) Creado a partir de un módulo de e-Sword"
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=v0kev3i5oxpiv5v31swpftwbp36duuap&file_id=f_1114405449829",
@@ -228,6 +228,13 @@
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=adxskbdsh10z6ijr8lspqnmoj28akp7a&file_id=f_1115893414151",
 			"file_name":"LinuxLibertine.bundle.zip",
 			"description":"Linux Libertine fonts",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5y2jqy9mjsaqymqmb52u8wx7db1ynhzn&file_id=f_1117949518290",
+			"file_name":"Maiandra.bundle.zip",
+			"description":"Maiandra fonts",
 			"update_date":"2023-01-16",
 			"update_info":"(2023-01-16) Published"
 		},
