@@ -4,14 +4,6 @@
 	"description":"BIBLIAS CATÓLICAS (con deuterocanónicos)",
 	"modules":[
 		{
-			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5mic3e4l317yx63ttvs3n93a8ri8wn21&file_id=f_1117145074761",
-			"file_name":"BSA'75.zip",
-			"language_code":"es",
-			"description":"Biblia Serafín de Ausejo, 1975 (con deuterocanónicos)",
-			"update_date":"2023-01-16",
-			"update_info":"(2023-01-16) Se agregaron los libros deuterocanónicos \n(2023-01-11) Publicado"
-		},
-		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=ussjw580xqxrm2zj339mxki0w8z82l00&file_id=f_1114408274908",
 			"file_name":"BDA'10.zip",
 			"language_code":"es",
@@ -20,26 +12,18 @@
 			"update_info":"(2023-01-16) Publicado \n(2023-01-11) Creado a partir de un módulo de e-Sword"
 		},
 		{
-			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=4v72fwom2j3rduhcrx48bqqasximg2gi&file_id=f_1114415398537",
-			"file_name":"BJ4LA.zip",
-			"language_code":"es",
-			"description":"Biblia de Jerusalén 4ta Edición Latinoamericana, 2007 (con deuterocanónicos)",
-			"update_date":"2023-01-16",
-			"update_info":"(2023-01-16) Publicado \n(2023-01-11) Creado a partir de un módulo de e-Sword"
-		},
-		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=091waemk096ydu0f5zujb0l226fb53xu&file_id=f_1114472748723",
-			"file_name":"BJ'1975.zip",
+			"file_name":"BJ2'75.zip",
 			"language_code":"es",
 			"description":"Biblia de Jerusalén, 1975 (con deuterocanónicos)",
 			"update_date":"2023-01-16",
 			"update_info":"(2023-01-16) Publicado"
 		},
 		{
-			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=v0kev3i5oxpiv5v31swpftwbp36duuap&file_id=f_1114405449829",
-			"file_name":"BLA'95.zip",
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=4v72fwom2j3rduhcrx48bqqasximg2gi&file_id=f_1114415398537",
+			"file_name":"BJ4LA.zip",
 			"language_code":"es",
-			"description":"Biblia Latinoamérica, 1995 (Biblia Latinoamericana, con deuterocanónicos)",
+			"description":"Biblia de Jerusalén 4ta Edición Latinoamericana, 2007 (con deuterocanónicos)",
 			"update_date":"2023-01-16",
 			"update_info":"(2023-01-16) Publicado \n(2023-01-11) Creado a partir de un módulo de e-Sword"
 		},
@@ -52,6 +36,22 @@
 			"update_info":"(2023-01-16) Publicado \n(2023-01-11) Creado a partir de un módulo de e-Sword"
 		},
 		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=v0kev3i5oxpiv5v31swpftwbp36duuap&file_id=f_1114405449829",
+			"file_name":"BLA'95.zip",
+			"language_code":"es",
+			"description":"Biblia Latinoamérica, 1995 (Biblia Latinoamericana, con deuterocanónicos)",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Publicado \n(2023-01-11) Creado a partir de un módulo de e-Sword"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5mic3e4l317yx63ttvs3n93a8ri8wn21&file_id=f_1117145074761",
+			"file_name":"BSA'75.zip",
+			"language_code":"es",
+			"description":"Biblia Serafín de Ausejo, 1975 (con deuterocanónicos)",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Se agregaron los libros deuterocanónicos \n(2023-01-11) Publicado"
+		},
+		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=hk1rgyhkzcedh47qa6f1nrfkazqpn8s4&file_id=f_1114435565745",
 			"file_name":"CEE'11.zip",
 			"language_code":"es",
@@ -61,15 +61,15 @@
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=cjghltcoi4pb0nxy5e0toavmcgxh9jr9&file_id=f_1114386101129",
-			"file_name":"EUNSA.zip",
+			"file_name":"Navarra.zip",
 			"language_code":"es",
-			"description":"Sagrada Biblia — Universidad de Navarra, 2016",
+			"description":"Sagrada Biblia • Universidad de Navarra, 2016",
 			"update_date":"2023-01-16",
 			"update_info":"(2023-01-16) Updated \n(2018-12-28) Re-created from the newest edition\n(2017-09-25) Published"
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=s9tzb9w05n3lh6r0cf9l2yu1kn5shqwf&file_id=f_1115119212506",
-			"file_name":"Junemann.zip",
+			"file_name":"JLXXd.zip",
 			"language_code":"es",
 			"description":"Biblia de Jünemann. La Sagrada Biblia — Versión de la LXX al español por Guillermo Jünemann (con deuterocanónicos)",
 			"update_date":"2023-01-16",
@@ -77,7 +77,7 @@
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5z79n829jtaqq71hlpgd3smnp0wn8gva&file_id=f_1114409397802",
-			"file_name":"LPD.zip",
+			"file_name":"LPD'81.zip",
 			"language_code":"es",
 			"description":"El Libro del Pueblo de Dios (Biblia Levoratti-Trusso, con deuterocanónicos)",
 			"update_date":"2023-01-16",
@@ -85,7 +85,7 @@
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=hkhgowqcc5k0e9yl40ha8cr6bwbchpga&file_id=f_1114411455031",
-			"file_name":"N-C'1944.zip",
+			"file_name":"N-Cd.zip",
 			"language_code":"es",
 			"description":"Biblia Nácar-Colunga, 1944. De Alberto Colunga Cueto y Eloíno Nácar Fúster (con deuterocanónicos)",
 			"update_date":"2023-01-16",
@@ -93,7 +93,7 @@
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=6blxp6ms3q1qdnbxzrmtgbk87p536s0l&file_id=f_1114407201724",
-			"file_name":"PER.zip",
+			"file_name":"PER'93.zip",
 			"language_code":"es",
 			"description":"Biblia del Peregrino, 1993 (con deuterocanónicos). De Luis Alonso Shöckel",
 			"update_date":"2023-01-16",
@@ -125,7 +125,7 @@
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=zd4iioh87omwgg7l4pshv7og8byb9fv6&file_id=f_1114378474001",
-			"file_name":"NRSVCE.zip",
+			"file_name":"NRSVCE'93.zip",
 			"language_code":"en",
 			"description":"New Revised Standard Version Bible: Catholic Edition, 1993",
 			"update_date":"2023-01-16",
@@ -133,7 +133,15 @@
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=k6w5nvfu49oghkt6x4tltstruo9f0dea&file_id=f_1114380842460",
-			"file_name":"NJB.zip",
+			"file_name":"NJB'85.zip",
+			"language_code":"en",
+			"description":"New Jerusalem Bible, 1985",
+			"update_date":"2023-01-16",
+			"update_info":"(2023-01-16) Published"
+		},
+		{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=knrid95vobt2sj8chl52ukuk61pidqxw&file_id=f_1114381509625",
+			"file_name":"RSV-CE.zip",
 			"language_code":"en",
 			"description":"New Jerusalem Bible, 1985",
 			"update_date":"2023-01-16",
