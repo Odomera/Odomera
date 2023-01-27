@@ -53,7 +53,7 @@
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=hk1rgyhkzcedh47qa6f1nrfkazqpn8s4&file_id=f_1114435565745",
-			"file_name":"CEE'11.zip",
+			"file_name":"SBCEE'11.zip",
 			"language_code":"es",
 			"description":"Sagrada Biblia de la Conferencia Episcopal Española. Edición Popular, 2011",
 			"update_date":"2023-01-16",
@@ -101,7 +101,7 @@
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=jmc2wjc1otuezj756mx6fv593ia6bu5g&file_id=f_1114380898008",
-			"file_name":"Platense.zip",
+			"file_name":"Straubinger.zip",
 			"language_code":"es",
 			"description":"Biblia Platense de Monseñor Straubinger (con deuterocanónicos), 1952",
 			"update_date":"2023-01-16",
@@ -117,7 +117,7 @@
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=2wm6ktc8qmu11w2a54k95cmi5ildt5ng&file_id=f_1114400980898",
-			"file_name":"TA.zip",
+			"file_name":"T-A.zip",
 			"language_code":"es",
 			"description":"Biblia Torres Amat. Traducción de la Vulgata Latina al Castellano. 1825",
 			"update_date":"2023-01-16",
@@ -143,7 +143,7 @@
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=knrid95vobt2sj8chl52ukuk61pidqxw&file_id=f_1114381509625",
 			"file_name":"RSV-CE.zip",
 			"language_code":"en",
-			"description":"New Jerusalem Bible, 1985",
+			"description":"Revised Standard Version Catholic Edition",
 			"update_date":"2023-01-16",
 			"update_info":"(2023-01-16) Published"
 		},
