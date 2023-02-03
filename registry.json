@@ -23,7 +23,7 @@
 			"language_code":"es",
 			"description":"Biblia de Jerusalén 4ta Edición Latinoamericana, 2007 (con deuterocanónicos)",
 			"update_date":"2023-01-31",
-			"update_info":"(2023-01-31) Correción de errores \n(2023-01-16) Publicado \n(2023-01-11) Creado a partir de un módulo de e-Sword"
+			"update_info":"(2023-01-31) Correción de errores \n (2023-01-16) Publicado \n  (2023-01-12) Agregados deuterocanónicos \n (2023-01-11) Creado a partir de un módulo de e-Sword"
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=tssq2iehz7etoivajcadmebw2cdzuoyy&file_id=f_1116995604857",
@@ -31,15 +31,15 @@
 			"language_code":"es",
 			"description":"Biblia Latinoamérica, 2005 (Biblia Latinoamericana, con deuterocanónicos)",
 			"update_date":"2023-01-19",
-			"update_info":"(2023-01-19) Correcciones \n (2023-01-16) Publicado \n (2023-01-11) Creado a partir de un módulo de e-Sword"
+			"update_info":"(2023-01-19) Corrección de errores \n (2023-01-16) Publicado \n (2023-01-11) Creado a partir de un módulo de e-Sword"
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=v0kev3i5oxpiv5v31swpftwbp36duuap&file_id=f_1114405449829",
 			"file_name":"BLA'95.zip",
 			"language_code":"es",
 			"description":"Biblia Latinoamérica, 1995 (Biblia Latinoamericana, con deuterocanónicos)",
-			"update_date":"2023-01-16",
-			"update_info":"(2023-01-16) Publicado \n(2023-01-11) Creado a partir de un módulo de e-Sword"
+			"update_date":"2023-02-02",
+			"update_info":"(2023-02-02) Se agregaron comentarios \n(2023-01-16) Publicado \n(2023-01-11) Creado a partir de un módulo de e-Sword"
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=5mic3e4l317yx63ttvs3n93a8ri8wn21&file_id=f_1117145074761",
@@ -53,7 +53,7 @@
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=hk1rgyhkzcedh47qa6f1nrfkazqpn8s4&file_id=f_1114435565745",
 			"file_name":"SBCEE'11.zip",
 			"language_code":"es",
-			"description":"Sagrada Biblia de la Conferencia Episcopal Española. Edición Popular, 2011",
+			"description":"Sagrada Biblia de la Conferencia Episcopal Española. Edición Popular, (con deuterocanónicos) 2011",
 			"update_date":"2023-01-16",
 			"update_info":"(2023-01-16) Publicado"
 		},
@@ -61,7 +61,7 @@
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=cjghltcoi4pb0nxy5e0toavmcgxh9jr9&file_id=f_1114386101129",
 			"file_name":"Navarra.zip",
 			"language_code":"es",
-			"description":"Sagrada Biblia • Universidad de Navarra, 2016",
+			"description":"Sagrada Biblia • Universidad de Navarra, (con deuterocanónicos) 2016",
 			"update_date":"2023-01-16",
 			"update_info":"(2023-01-16) Updated \n(2018-12-28) Re-created from the newest edition\n(2017-09-25) Published"
 		},
@@ -110,14 +110,14 @@
 			"file_name":"SB-MN.zip",
 			"language_code":"es",
 			"description":"Sagrada Biblia de Evaristo Martín Nieto (con deuterocanónicos), 1952",
-			"update_date":"2023-01-16",
-			"update_info":"(2023-01-16) Publicado \n(2023-01-11) Creado a partir de un módulo de e-Sword"
+			"update_date":"2023-01-31",
+			"update_info":"(2023-01-31) Agregados comentarios \n (2023-01-16) Publicado \n (2023-01-11) Creado a partir de un módulo de e-Sword"
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=2wm6ktc8qmu11w2a54k95cmi5ildt5ng&file_id=f_1114400980898",
 			"file_name":"T-A.zip",
 			"language_code":"es",
-			"description":"Biblia Torres Amat. Traducción de la Vulgata Latina al Castellano. 1825",
+			"description":"Biblia Torres Amat. Traducción de la Vulgata Latina al Castellano (con deuterocanónicos) 1825",
 			"update_date":"2023-01-16",
 			"update_info":"(2023-01-16) Publicado \n(2023-01-11) Creado a partir de un módulo de e-Sword"
 		},
