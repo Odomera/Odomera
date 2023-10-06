@@ -1,5 +1,5 @@
 {
-	"url":"https://i.odomera.com/registry.json", "file_name":"odomera.registry.json", "description":"BIBLIAS CATÓLICAS (con deuterocanónicos)",
+	"url":"https://i.odomera.com/registry.json", "file_name":"odomera.registry.json", "description":" BIBLIAS CATÓLICAS (con deuterocanónicos) \n Actualizado: 05/Oct/2023",
 	"modules":[
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=6fs5t58o8u0ndy3hn0zk0pdiqhk762a2&file_id=f_1131376524774",
@@ -23,7 +23,7 @@
 			"language_code":"es",
 			"description":"Biblia de Jerusalén 4ta Edición Latinoamericana, 2007 (con deuterocanónicos)",
 			"update_date":"2023-10-05",
-			"update_info":"(2023-01-31) Correción de errores \n (2023-01-16) Publicado \n  (2023-01-12) Agregados deuterocanónicos \n (2023-01-11) Creado a partir de un módulo de e-Sword"
+			"update_info":"(2023-10-05) Agregado: versículos faltantes de Daniel \n (2023-01-31) Correción de errores \n (2023-01-16) Publicado \n  (2023-01-12) Agregado: libros deuterocanónicos de la 4ta edición \n (2023-01-11) Creado a partir de un módulo de e-Sword"
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=50duesg9emtxlh88rwhlm0zijz31crjp&file_id=f_1131377739562",
@@ -46,8 +46,8 @@
 			"file_name":"BSA'75.zip",
 			"language_code":"es",
 			"description":"Biblia Serafín de Ausejo, 1975 (con deuterocanónicos)",
-			"update_date":"2023-01-16",
-			"update_info":"(2023-10-05) Se agregaron los libros deuterocanónicos \n(2023-01-11) Publicado"
+			"update_date":"2023-10-05",
+			"update_info":"(2023-10-05) Se agregaron versículos faltantes de Daniel \n(2023-01-16) Se agregaron los libros deuterocanónicos \n(2023-01-11) Publicado"
 		},
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=bha5uqjfkl8ofghce47siqhzqqnvmqxy&file_id=f_1131376205421",
