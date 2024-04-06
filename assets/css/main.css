@@ -16,7 +16,6 @@ body,html{min-width:320px}
 }
 html{box-sizing:border-box}
 *,:after,:before{box-sizing:inherit}
-body.is-preload *,body.is-preload :after,body.is-preload :before{ animation:none!important; transition:none!important}
 html{height:100%}
 
 body{
@@ -36,15 +35,13 @@ top:0;
 left:0; 
 width:100%; 
 height:inherit; 
-opacity:0; 
+opacity:1; 
 z-index:1; 
 background-color:#000; 
 background-image:url(images/overlay.png),linear-gradient(60deg,#296c2742 5%,#296c2745),background-repeat: repeat,no-repeat; 
 background-size:100px 100px,cover; 
 background-position:top left,center center; 
-transition:opacity 1.75s ease-out}
-
-body.is-preload:after{opacity:1}
+}
 
 body{ 
 color:#414f57; 
