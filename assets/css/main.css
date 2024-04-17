@@ -42,7 +42,7 @@ background-color:#000;
 background-image:url(images/overlay.png),linear-gradient(60deg,#296c2742 5%,#296c2745),background-repeat: repeat,no-repeat; 
 background-size:100px 100px,cover; 
 background-position:top left,center center; 
-transition:opacity 1.75s ease-out}
+transition:opacity 1s ease-out}
 
 body.is-preload:after{opacity:1}
 
