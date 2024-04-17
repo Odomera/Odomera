@@ -22,7 +22,7 @@ html{height:100%}
 body{
 height:100%; 
 background-color:#000; 
-background-image:url(images/overlay.png),linear-gradient(60deg,#296c2742 5%,#296c2745),url(images/helechos-01.jpg); 
+background-image:url(images/overlay.png),linear-gradient(60deg,#296c2742 5%,#296c2745),url(https://i.odomera.com/assets/css/images/helechos-01.jpg); 
 background-repeat:repeat,no-repeat,no-repeat; 
 background-size:100px 100px,cover,cover; 
 background-position:top left,center center,bottom center; 
