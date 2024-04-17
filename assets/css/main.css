@@ -42,7 +42,7 @@ background-color:#000;
 background-image:url(images/overlay.png),linear-gradient(60deg,#296c2742 5%,#296c2745),background-repeat: repeat,no-repeat; 
 background-size:100px 100px,cover; 
 background-position:top left,center center; 
-transition:opacity 1s ease-out}
+transition:opacity .87s ease-out}
 
 body.is-preload:after{opacity:1}
 
@@ -90,8 +90,8 @@ ul.alt{list-style:none; padding-left:0}
 ul.alt li{border-top:solid 1px #c8cccf; padding:.5em 0} 
 ul.alt li:first-child{border-top:0; padding-top:0}
 
-#main{transform-origin:50% 50%; transform:rotateX(0); transition:opacity 1s ease,transform 1s ease; padding:3em 3em 3em 3em; background:#fff; border-radius:4px; cursor:default; max-width:100%; opacity:.95; position:relative; text-align:center; width:27em}
-#main2{transform-origin:50% 50%; transform:rotateX(0); transition:opacity 2s ease,transform 1s ease; opacity:.95; }
+#main{transform-origin:50% 50%; transform:rotateX(0); transition:opacity .5s ease,transform .5s ease; padding:3em 3em 3em 3em; background:#fff; border-radius:4px; cursor:default; max-width:100%; opacity:.95; position:relative; text-align:center; width:27em}
+#main2{transform-origin:50% 50%; transform:rotateX(0); transition:opacity 1s ease,transform .5s ease; opacity:.95; }
 
 #main .avatar{position:relative; display:block; margin-bottom:1.5em}
 #main .avatar img{display:block; margin:0 auto; border-radius:100%; box-shadow:0 0 0 1.5em #fff}
