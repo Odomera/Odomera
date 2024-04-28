@@ -133,13 +133,13 @@ body.is-ie #wrapper{height:100%}
 #social li:after{position:absolute; top:0; left:3em; z-index:2; display:block; height:38px; color:#141414; content:attr(data-alt); line-height:32px}
 #social .icon{overflow:hidden; color:#fafafa}
 #social .facebook{background-color:rgba(59,89,152,.7); background-position:0 0; width:2.5em; height:2.5em; border-radius:.2em}
-#social .twitter{background-color:rgba(0,172,237,.7); background-position:0 -2.5em; width:2.5em; height:2.5em; border-radius:.2em}
+#social .twitter{background-color:rgba(0,0,0,.7); background-position:0 -2.5em; width:2.5em; height:2.5em; border-radius:.2em}
 #social .instagram{background-color:rgba(193,53,132,.7); background-position:-.15em -5em; width:2.5em; height:2.5em; border-radius:.2em}
 #social .whatsapp{background-color:rgba(77,194,7,.7); background-position:0 -7.2em; width:2.5em; height:2.5em; border-radius:.2em}
 #social .telegram{background-color:rgba(0,136,204,.47); background-position:-.15em -126px; width:2.5em; height:2.5em; border-radius:.2em}
 #social li:hover .icon{width:21em}
 #social li:hover .facebook{background-color:rgba(59,89,152,1); width:19em}
-#social li:hover .twitter{background-color:rgba(0,172,237,1); width:11.4em}
+#social li:hover .twitter{background-color:rgba(0,0,0,1); width:11.4em}
 #social li:hover .instagram{background-color:rgba(193,53,132,1); width:19em}
 #social li:hover .whatsapp{background-color:rgba(77,194,7,1); width:17.5em}
 #social li:hover .telegram{background-color:rgba(0,136,204,1); width:17.5em}
