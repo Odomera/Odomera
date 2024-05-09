@@ -1,5 +1,5 @@
 {
-	"url":"https://i.odomera.com/registry.json", "file_name":"odomera.registry.json", "description":"BIBLIAS CATÓLICAS (con deuterocanónicos) \nActualizado: 05/Oct/2023",
+	"url":"https://i.odomera.com/registry.json", "file_name":"odomera.registry.json", "description":"BIBLIAS CATÓLICAS (con deuterocanónicos) \nActualizado: 10/May/2024",
 	"modules":[
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=6fs5t58o8u0ndy3hn0zk0pdiqhk762a2&file_id=f_1131376524774",
@@ -21,7 +21,7 @@
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=kphf6st25ym8xvgihua5sk5n1h9zu18i&file_id=f_1131378674652",
 			"file_name":"BJ4LA.zip",
 			"language_code":"es",
-			"description":"Biblia de Jerusalén 4ta Edición Latinoamericana, 2007 (con deuterocanónicos)",
+			"description":"Biblia de Jerusalén Latinoamericana, 2007 (con deuterocanónicos)",
 			"update_date":"2024-05-09",
 			"update_info":"(2024-05-09) Corregidos deuterocanónicos consultando la versión impresa \n (2023-10-05) Agregado: versículos faltantes de Daniel \n (2023-01-31) Correción de errores \n (2023-01-16) Publicado \n  (2023-01-12) Agregado: libros deuterocanónicos de la 4ta edición \n (2023-01-11) Creado a partir de un módulo de e-Sword"
 		},
