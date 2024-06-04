@@ -161,6 +161,8 @@
 			"update_date":"2023-07-25",
 			"update_info":"(2023-07-25) Publicado"
 		},		
+		{ "download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=jh8wqw4lqioniupxzh00ysfx7kt9hl26&file_id=f_1550805827886",
+		  "file_name":"Victor.bundle.zip", "language_code":"es", "description":"Tema por Victor Emanuel Ortiz", "update_date":"2024-06-10", "update_info":"(2024-06-10) Published" },
 		{ "download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=tg6ogbvbz9wrachlk1mbdonpynzp5gna&file_id=f_1115890234090",
 		  "file_name":"Cardo.bundle.zip", "language_code":"es", "description":"Cardo fonts", "update_date":"2023-01-16", "update_info":"(2023-01-16) Published" },
 		{ "download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=c0jw8nc993ty7skan27xwmudu5l2earh&file_id=f_1115897844458",
@@ -196,8 +198,6 @@
 		{ "download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=sdd96lu98jwg7xdrb8wdfmjcum3t0cpa&file_id=f_1115898432888",
 		  "file_name":"TaameyAshkenaz.bundle.zip", "language_code":"es", "description":"Taamey Ashkenaz fonts", "update_date":"2023-01-16", "update_info":"(2023-01-16) Published" },
 		{ "download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=fzjcmmvfgq5481tblfhlerf6puvbdfu4&file_id=f_1115893481792",
-		  "file_name":"Tinos.bundle.zip", "language_code":"es", "description":"Tinos fonts", "update_date":"2023-01-16", "update_info":"(2023-01-16) Published" },
-		{ "download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=zkav12ibrqliwe283tum2so61mz78gyn&file_id=f_1545993441002",
-		  "file_name":"VicSettings.bundle.zip", "language_code":"es", "description":"Victor Settings and Fonts", "update_date":"2023-01-16", "update_info":"(2023-01-16) Published" }
+		  "file_name":"Tinos.bundle.zip", "language_code":"es", "description":"Tinos fonts", "update_date":"2023-01-16", "update_info":"(2023-01-16) Published" }
 	]
 }
