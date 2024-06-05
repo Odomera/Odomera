@@ -1,5 +1,5 @@
 {
-	"url":"https://i.odomera.com/registry.json", "file_name":"odomera.registry.json", "description":"BIBLIAS CATÓLICAS (con deuterocanónicos) \nActualizado: 10/May/2024",
+	"url":"https://i.odomera.com/registry.json", "file_name":"odomera.registry.json", "description":"BIBLIAS CATÓLICAS o Completas (con deuterocanónicos) \nActualizado: 07/Jun/2024",
 	"modules":[
 		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=6fs5t58o8u0ndy3hn0zk0pdiqhk762a2&file_id=f_1131376524774",
@@ -161,7 +161,17 @@
 			"update_date":"2023-07-25",
 			"update_info":"(2023-07-25) Publicado"
 		},		
-		{ "download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=jh8wqw4lqioniupxzh00ysfx7kt9hl26&file_id=f_1550805827886",
+				{
+			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=z0arn0rtkh1u53p6t03gjf95bzklida4&file_id=f_1550838244581",
+			"file_name":"Referencias.crossreferences.zip.zip",
+			"language_code":"es",
+			"description":"Referencias Cruzadas Biblia Católica",
+			"update_date":"2024-06-10",
+			"update_info":"(2024-06-10) Publicado"
+		},	
+		
+		
+		{ "download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=o1vpjtnaco8cc3e88tfrrikpew0aeujs&file_id=f_1550848062096",
 		  "file_name":"Victor.bundle.zip", "language_code":"es", "description":"Tema por Victor Emanuel Ortiz", "update_date":"2024-06-10", "update_info":"(2024-06-10) Published" },
 		{ "download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=tg6ogbvbz9wrachlk1mbdonpynzp5gna&file_id=f_1115890234090",
 		  "file_name":"Cardo.bundle.zip", "language_code":"es", "description":"Cardo fonts", "update_date":"2023-01-16", "update_info":"(2023-01-16) Published" },
