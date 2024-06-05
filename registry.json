@@ -161,18 +161,16 @@
 			"update_date":"2023-07-25",
 			"update_info":"(2023-07-25) Publicado"
 		},		
-				{
+		{
 			"download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=z0arn0rtkh1u53p6t03gjf95bzklida4&file_id=f_1550838244581",
-			"file_name":"Referencias.crossreferences.zip",
+			"file_name":"CAT-x.crossreferences.zip",
 			"language_code":"es",
 			"description":"Referencias Cruzadas Biblia Católica",
 			"update_date":"2024-06-10",
 			"update_info":"(2024-06-10) Publicado"
 		},	
-		
-		
 		{ "download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=o1vpjtnaco8cc3e88tfrrikpew0aeujs&file_id=f_1550848062096",
-		  "file_name":"Victor.bundle.zip", "language_code":"es", "description":"Tema por Victor Emanuel Ortiz", "update_date":"2024-06-10", "update_info":"(2024-06-10) Published" },
+		  "file_name":"Victor.bundle.zip", "language_code":"es", "description":"Tema, fuentes y Referencias Cruzadas por Victor Emanuel Ortiz", "update_date":"2024-06-10", "update_info":"(2024-06-10) Published" },
 		{ "download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=tg6ogbvbz9wrachlk1mbdonpynzp5gna&file_id=f_1115890234090",
 		  "file_name":"Cardo.bundle.zip", "language_code":"es", "description":"Cardo fonts", "update_date":"2023-01-16", "update_info":"(2023-01-16) Published" },
 		{ "download_url":"https://app.box.com/index.php?rm=box_download_shared_file&shared_name=c0jw8nc993ty7skan27xwmudu5l2earh&file_id=f_1115897844458",
