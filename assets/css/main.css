@@ -125,11 +125,12 @@ body.is-ie #wrapper{height:100%}
 #social{list-style:none; text-decoration:none; font-size:.9em}
 #social a{text-decoration:none}
 #social li{position:relative; height:2.2em; cursor:pointer; padding:0!important}
-#social .feisbu,.insta,.tuiter,.tikt{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; background:url(images/sprite.png) no-repeat; background-color:rgba(217,30,118,.42); box-shadow:rgba(0,0,0,.28) 0 2px 3px; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:2em; transition:width .25s ease-in-out,background-color .25s ease-in-out}
-#social .insta{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em;  background:url(images/sprite.png) no-repeat; background-color:rgba(217,30,118,.9); box-shadow:rgba(0,0,0,.28) 0 2px 3px; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:32px; transition:width .25s ease-in-out,background-color .25s ease-in-out}
-#social .tikt{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:25em; height:38px;  background:url(images/sprite.png) no-repeat; background-color:rgba(217,30,118,.42); box-shadow:rgba(0,0,0,.28) 0 2px 3px; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:32px; transition:width .25s ease-in-out,background-color .25s ease-in-out}
-#social .tuiter{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:200px; height:38px;  background:url(images/sprite.png) no-repeat; background-color:rgba(217,30,118,.42); box-shadow:rgba(0,0,0,.28) 0 2px 3px; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:32px; transition:width .25s ease-in-out,background-color .25s ease-in-out}
-#social .telegr{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:200px; height:38px; background:url(images/sprite.png) no-repeat; background-color:rgba(217,30,118,.42); -webkit-box-shadow:rgba(0,0,0,.28) 0 2px 3px; -moz-box-shadow:rgba(0,0,0,.28) 0 2px 3px; box-shadow:rgba(0,0,0,.28) 0 2px 3px; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:32px; transition:width .25s ease-in-out,background-color .25s ease-in-out}
+#social .feisbu,.insta,.tuiter,.tikt,.treas,{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; background-color:rgba(217,30,118,.42); box-shadow:rgba(0,0,0,.28) 0 2px 3px; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:2em; transition:width .25s ease-in-out,background-color .25s ease-in-out}
+#social .insta{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em;  background-color:rgba(217,30,118,.9); box-shadow:rgba(0,0,0,.28) 0 2px 3px; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:32px; transition:width .25s ease-in-out,background-color .25s ease-in-out}
+#social .tikt{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:25em; height:38px;  background-color:rgba(217,30,118,.42); box-shadow:rgba(0,0,0,.28) 0 2px 3px; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:32px; transition:width .25s ease-in-out,background-color .25s ease-in-out}
+#social .tuiter{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:200px; height:38px; background-color:rgba(217,30,118,.42); box-shadow:rgba(0,0,0,.28) 0 2px 3px; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:32px; transition:width .25s ease-in-out,background-color .25s ease-in-out}
+#social .telegr{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:200px; height:38px; background-color:rgba(217,30,118,.42); -webkit-box-shadow:rgba(0,0,0,.28) 0 2px 3px; -moz-box-shadow:rgba(0,0,0,.28) 0 2px 3px; box-shadow:rgba(0,0,0,.28) 0 2px 3px; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:32px; transition:width .25s ease-in-out,background-color .25s ease-in-out}
+#social .treas{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:25em; height:38px;  background-color:rgba(217,30,118,.42); box-shadow:rgba(0,0,0,.28) 0 2px 3px; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:32px; transition:width .25s ease-in-out,background-color .25s ease-in-out}
 #social li:after{position:absolute; top:0; left:3em; z-index:2; display:block; height:38px; color:#141414; content:attr(data-alt); line-height:32px}
 #social .icon{overflow:hidden; color:#fafafa}
 #social .feisbu{background-color:rgba(59,89,152,.7); background-position:0 0; width:2em; height:2em; border-radius:.2em}
@@ -137,9 +138,11 @@ body.is-ie #wrapper{height:100%}
 #social .insta{background-color:rgba(193,53,132,.7); background-position:-.10em -3.9em; width:2em; height:2em; border-radius:.2em}
 #social .tikt{background-color:rgba(0,0,0,.7); background-position:0 -5.6em; width:2em; height:2em; border-radius:.2em}
 #social .telegr{background-color:rgba(0,136,204,.47); background-position:-.15em -126px; width:2em; height:2em; border-radius:.2em}
+#social .treas{background-color:rgba(0,0,0,.7); background-position:0 -5.6em; width:2em; height:2em; border-radius:.2em}
 #social li:hover .icon{width:21em}
 #social li:hover .feisbu{background-color:rgba(59,89,152,1); width:19em}
-#social li:hover .tuiter{background-color:rgba(0,0,0,1); width:11.4em}
+#social li:hover .tuiter{background-color:rgba(0,0,0,1); width:11em}
 #social li:hover .insta{background-color:rgba(193,53,132,1); width:19em}
-#social li:hover .tikt{background-color:rgba(0,0,0,1); width:17.5em}
-#social li:hover .telegr{background-color:rgba(0,136,204,1); width:17.5em}
+#social li:hover .tikt{background-color:rgba(0,0,0,1); width:13.5em}
+#social li:hover .telegr{background-color:rgba(0,136,204,1); width:13.5em}
+#social li:hover .treas{background-color:rgba(0,0,0,1); width:19em}
