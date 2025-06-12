@@ -140,9 +140,9 @@ body.is-ie #wrapper{height:100%}
 #social .telegr{background-color:rgba(0,136,204,.47); background-position:-.15em -126px; width:2em; height:2em; border-radius:.2em}
 #social .treas{background-color:rgba(0,0,0,.7); background-position:0 -5.6em; width:2em; height:2em; border-radius:.2em}
 #social li:hover .icon{width:21em}
-#social li:hover .feisbu{background-color:rgba(59,89,152,1); width:19em}
-#social li:hover .tuiter{background-color:rgba(0,0,0,1); width:11em}
-#social li:hover .insta{background-color:rgba(193,53,132,1); width:19em}
-#social li:hover .tikt{background-color:rgba(0,0,0,1); width:13.5em}
-#social li:hover .telegr{background-color:rgba(0,136,204,1); width:13.5em}
-#social li:hover .treas{background-color:rgba(0,0,0,1); width:19em}
+#social li:hover .feisbu{background-color:rgba(59,89,152,1); width:20em}
+#social li:hover .tuiter{background-color:rgba(0,0,0,1); width:15em}
+#social li:hover .insta{background-color:rgba(193,53,132,1); width:20em}
+#social li:hover .tikt{background-color:rgba(0,0,0,1); width:15em}
+#social li:hover .telegr{background-color:rgba(0,136,204,1); width:15em}
+#social li:hover .treas{background-color:rgba(0,0,0,1); width:20em}
