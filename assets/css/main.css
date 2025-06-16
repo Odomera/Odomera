@@ -125,24 +125,22 @@ body.is-ie #wrapper{height:100%}
 #social{list-style:none; text-decoration:none; font-size:.9em}
 #social a{text-decoration:none}
 #social li{position:relative; height:2.2em; cursor:pointer; padding:0!important}
-#social .feisbu,.insta,.tuiter,.tikt,.treas,{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:2em; transition:width .25s ease-in-out,background-color .25s ease-in-out;}
-#social .insta{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:32px; transition:width .25s ease-in-out,background-color .25s ease-in-out}
-#social .tikt{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:25em; height:38px;  color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:32px; transition:width .25s ease-in-out,background-color .25s ease-in-out}
-#social .tuiter{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:200px; height:38px;color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:32px; transition:width .25s ease-in-out,background-color .25s ease-in-out}
-#social .telegr{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:200px; height:38px; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:32px; transition:width .25s ease-in-out,background-color .25s ease-in-out}
-#social .treas{position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:25em; height:38px; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; line-height:32px; transition:width .25s ease-in-out,background-color .25s ease-in-out}
+#social .feisbu,.insta,.tuiter,.tikt,.treas,.telegr,.yutu {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
 #social li:after{position:absolute; top:0; left:3em; z-index:2; display:block; height:38px; color:#141414; content:attr(data-alt); line-height:32px}
-#social .icon{overflow:hidden; color:#fafafa}
-#social .feisbu{background-color:rgba(59,89,152,.7); width:2em; height:2em; border-radius:.2em; background-image:url(images/feisbu.svg); background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center; }
-#social .tuiter{background-color:rgba(0,0,0,0); width:2em; height:2em; border-radius:.2em; background-image:url(images/tuiter.svg); background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center; }
-#social .insta{background-color:rgba(193,53,132,0); width:2em; height:2em;  border-radius:.5em; background-image:url(images/insta.svg); background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center; }
-#social .tikt{background-color:rgba(0,0,0,0); width:2em; height:2em; border-radius:.8em;  background-image:url(images/tikt.svg); background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center; }
-#social .telegr{background-color:rgba(0,136,204,0); width:2em; height:2em; border-radius:1em; background-image:url(images/telegr.svg); background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center; }
-#social .treas{background-color:rgba(0,0,0,0); width:2em; height:2em; border-radius:.9em; background-image:url(images/treas.svg); background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center; }
-#social li:hover .icon{width:21em}
-#social li:hover .feisbu{background-color:rgba(59,89,152,1); width:20em}
-#social li:hover .tuiter{background-color:rgba(0,0,0,1); width:15em}
-#social li:hover .insta{background-color:rgba(193,53,132,1); width:20em; }
-#social li:hover .tikt{background-color:rgba(0,0,0,1); width:15em; }
-#social li:hover .telegr{background-color:rgba(0,136,204,1); width:15em}
-#social li:hover .treas{background-color:rgba(0,0,0,1); width:20em}
+#social li:hover:after{color:rgba(0,0,0,0);}
+#social .icon{overflow:hidden; color:#141414}
+#social .feisbu{width:2em; height:2em; border-radius:.2em; background-image:url(images/feisbu.svg); }
+#social .tuiter{width:2em; height:2em; border-radius:.2em; background-image:url(images/tuiter.svg);  }
+#social .insta{width:2em; height:2em;  border-radius:.5em; background-image:url(images/insta.svg);  }
+#social .tikt{width:2em; height:2em; border-radius:.8em;  background-image:url(images/tikt.svg);  }
+#social .telegr{width:2em; height:2em; border-radius:1em; background-image:url(images/telegr.svg); }
+#social .treas{width:2em; height:2em; border-radius:.9em; background-image:url(images/treas.svg);  }
+#social .yutu{width:2em; height:2em; border-radius:.9em; background-image:url(images/yutu.svg);  }
+#social li:hover .feisbu{ width:20em}
+#social li:hover .tuiter{ width:15em}
+#social li:hover .insta{ width:20em; }
+#social li:hover .tikt{width:15em; }
+#social li:hover .telegr{width:15em}
+#social li:hover .treas{ width:20em}
+#social li:hover .yutu{ width:20em;}
+
