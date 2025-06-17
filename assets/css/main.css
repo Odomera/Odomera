@@ -1,6 +1,7 @@
 @font-face {font-family: "Jeroky"; src: url("fonts/Jeroky-Regular.woff") format('woff');}
 @font-face {font-family: "Jeroky Italic"; src: url("fonts/Jeroky-Italic.woff") format('woff');}
 @font-face {font-family: "Fluoxetine"; src: url("fonts/Fluoxetine-V2.woff") format('woff');}
+
 a,article,b,body,div,footer,h1,h2,h3,h4,h5,h6,header,html,img,li,p,s,section,span,ul{margin:0; padding:0; border:0; font-size:100%; font:inherit; vertical-align:baseline}
 article,footer,header,section{display:block}
 body{line-height:1}
@@ -122,7 +123,6 @@ body.is-ie #wrapper{height:100%}
 #papel::after{left:0; transform:rotate(-1deg)}
 #papel,#papel::after,#papel::before{background:#fff; box-shadow:0 0 3px rgba(0,0,0,.2)}
 
-#social{list-style:none; text-decoration:none; font-size:.9em}
 #social a{text-decoration:none}
 #social li{position:relative; height:2.2em; cursor:pointer; padding:0!important}
 #social .feisbu,.insta,.tuiter,.tikt,.treas,.telegr,.yutu {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
