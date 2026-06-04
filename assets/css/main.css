@@ -128,7 +128,7 @@ body.is-ie #wrapper{height:100%}
 #social .feisbu {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
 #social .ista {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
 #social .tuister {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
-#social .tiko {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
+#social .tikoto {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
 #social .treas {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
 #social .tele {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
 #social .yutu {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
@@ -138,14 +138,14 @@ body.is-ie #wrapper{height:100%}
 #social .feisbu{width:2em; height:2em; border-radius:.2em; background-image:url(images/feisbu.svg); }
 #social .tuister{width:2em; height:2em; border-radius:.2em; background-image:url(images/tuister.svg);  }
 #social .ista{width:2em; height:2em;  border-radius:.5em; background-image:url(images/ista.svg);  }
-#social .tiko{width:2em; height:2em; border-radius:.8em;  background-image:url(images/tiko.svg);  }
+#social .tikoto{width:2em; height:2em; border-radius:.8em;  background-image:url(images/tikoto.svg);  }
 #social .tele{width:2em; height:2em; border-radius:1em; background-image:url(images/tele.svg); }
 #social .treas{width:2em; height:2em; border-radius:.9em; background-image:url(images/treas.svg);  }
 #social .yutu{width:2em; height:2em; border-radius:.9em; background-image:url(images/yutu.svg);  }
 #social li:hover .feisbu{font-style: italic; width:15em}
 #social li:hover .tuister{font-style: italic; width:15em}
 #social li:hover .ista{font-style: italic; width:15em}
-#social li:hover .tiko{font-style: italic; width:15em}
+#social li:hover .tikoto{font-style: italic; width:15em}
 #social li:hover .tele{font-style: italic; width:15em}
 #social li:hover .treas{font-style: italic; width:15em}
 #social li:hover .yutu{font-style: italic; width:15em}
