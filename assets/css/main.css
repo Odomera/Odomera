@@ -9,10 +9,10 @@ body{-webkit-text-size-adjust:none}
 @media screen and (max-width:480px){
 body,html{min-width:320px}
 #social .feisbu{background-position: -0.1em 0!important}
-#social .tuiter{background-position: -0.1em -2.8em!important}
-#social .insta{ background-position: -0.3em -5.5em!important}
-#social .tikt{background-position: -0.1em -8em!important} 
-#social .telegr{ background-position: -0.3em -126px!important}
+#social .tuister{background-position: -0.1em -2.8em!important}
+#social .ista{ background-position: -0.3em -5.5em!important}
+#social .tikoto{background-position: -0.1em -8em!important} 
+#social .tele{ background-position: -0.3em -126px!important}
 }
 html{box-sizing:border-box}
 *,:after,:before{box-sizing:inherit}
