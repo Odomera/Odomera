@@ -126,8 +126,8 @@ body.is-ie #wrapper{height:100%}
 #social a{text-decoration:none}
 #social li{position:relative; height:2.2em; cursor:pointer; padding:0!important}
 #social .feisbu {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
-#social .insta {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
-#social .tuiter {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
+#social .ista {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
+#social .tuister {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
 #social .tikt {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
 #social .treas {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
 #social .tele {position:relative; z-index:5; display:block; float:none; margin:10px 0 0; width:21em; height:2.2em; color:#141414; text-align:left; text-indent:3em; text-shadow:rgba(0,0,0,.28) 0 1px 0; white-space:nowrap; background-repeat:no-repeat,no-repeat,no-repeat; background-size:2em,cover; background-position:top left,center center;}
@@ -136,15 +136,15 @@ body.is-ie #wrapper{height:100%}
 #social li:hover:after{color:rgba(0,0,0,0);}
 #social .icon{overflow:hidden; color:#141414}
 #social .feisbu{width:2em; height:2em; border-radius:.2em; background-image:url(images/feisbu.svg); }
-#social .tuiter{width:2em; height:2em; border-radius:.2em; background-image:url(images/tuiter.svg);  }
-#social .insta{width:2em; height:2em;  border-radius:.5em; background-image:url(images/insta.svg);  }
+#social .tuister{width:2em; height:2em; border-radius:.2em; background-image:url(images/tuiter.svg);  }
+#social .ista{width:2em; height:2em;  border-radius:.5em; background-image:url(images/insta.svg);  }
 #social .tikt{width:2em; height:2em; border-radius:.8em;  background-image:url(images/tikt.svg);  }
 #social .tele{width:2em; height:2em; border-radius:1em; background-image:url(images/telegr.svg); }
 #social .treas{width:2em; height:2em; border-radius:.9em; background-image:url(images/treas.svg);  }
 #social .yutu{width:2em; height:2em; border-radius:.9em; background-image:url(images/yutu.svg);  }
 #social li:hover .feisbu{font-style: italic; width:20em}
-#social li:hover .tuiter{font-style: italic; width:15em}
-#social li:hover .insta{font-style: italic; width:20em}
+#social li:hover .tuister{font-style: italic; width:15em}
+#social li:hover .ista{font-style: italic; width:20em}
 #social li:hover .tikt{font-style: italic; width:15em}
 #social li:hover .tele{font-style: italic; width:15em}
 #social li:hover .treas{font-style: italic; width:20em}
